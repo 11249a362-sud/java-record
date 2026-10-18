@@ -1,0 +1,138 @@
+Experiment 1
+
+Output:
+Enter number of days: 20
+Enter amount: 2000
+Final amount = 1800.0
+
+Experiment 2
+
+Output:
+Meena    BE      75000.00
+Ravi     ME      60000.00
+Anu      BSc     40000.00
+Total fee = 175000.00
+
+Experiment 3
+
+Output:
+Enter number of payments: 2
+
+Payment 1
+Enter fee amount: 1000
+------------------------------------------
+UPI        charge     0.00  total    1000.00
+Card       charge    20.00  total    1020.00
+Cash       charge    20.00  total    1020.00
+NetBanking charge    12.00  total    1012.00
+------------------------------------------
+
+Payment 2
+Enter fee amount: 2020
+------------------------------------------
+UPI        charge     0.00  total    2020.00
+Card       charge    40.40  total    2060.40
+Cash       charge    20.00  total    2040.00
+NetBanking charge    12.00  total    2032.00
+------------------------------------------
+
+Experiment 4
+
+Output:
+Name   : Ravi
+Salary : 30000.0
+Overtime : 3000
+Total   : 33000.0
+
+Experiment 5
+
+Output:
+Counter-1 booked seat. Left = 9
+Counter-2 booked seat. Left = 9
+Counter-3 booked seat. Left = 9
+Counter-1 booked seat. Left = 8
+Counter-2 booked seat. Left = 7
+Counter-3 booked seat. Left = 6
+Counter-1 booked seat. Left = 5
+Counter-2 booked seat. Left = 4
+Counter-3 booked seat. Left = 3
+Counter-1 booked seat. Left = 2
+Counter-2 booked seat. Left = 1
+Counter-3 booked seat. Left = 0
+
+Experiment 6
+
+Output:
+Dispensed 2000.0, balance 3000.0, withdrawn today 2000.0
+Refused : 350.0 is not a multiple of 100
+Dispensed 2000.0, balance 1000.0, withdrawn today 4000.0
+Refused : Balance is only 1000.0
+
+Experiment 7
+
+Input: student.txt
+1,Aravind,85
+2,Divya,92
+3,Karthik,ABC
+4,Ravi,37
+
+Output:
+Invalid mark skipped: 3,Karthik,ABC
+result.txt created. Passed 2, failed 1
+
+Contents of result.txt:
+Aravind PASS
+Divya PASS
+Ravi FAIL
+Passed  : 2
+Failed  : 1
+Average : 71.33
+
+Experiment 8
+
+Output:
+Click a bar
+
+ 78      91      45      66      88
++-----+ +-----+ +-----+ +-----+ +-----+
+|     | |     | |     | |     | |     |
+|     | |     | |     | |     | |     |
+|     | |     | |     | |     | |     |
+|     | |     | |     | |     | |     |
+|     | |     | |     | |     | |     |
+|     | |     | |     | |     | |     |
+|     | |     | |     | |     | |     |
+|     | |     | |     | |     | |     |
++-----+ +-----+ +-----+ +-----+ +-----+
+   1       2       3       4       5
+
+Green bars = Pass
+Red bar = Fail
+
+When clicking the second bar:
+Subject 2 = 91
+
+Experiment 9
+
+Output:
+Student Registration
+
+Name    [ Divya Lakshmi  ]
+Branch  [ CSE          v ]
+(o) Male    ( ) Female
+[ ] Hostel required
+          [ Submit ]
+Divya Lakshmi | CSE | Female | Hostel: Yes
+
+Experiment 10
+
+Output:
+Register number to search : 102
+102  Divya  91
+1 row(s) affected.
+102  Divya  95
+Register number to delete : 102
+1 row(s) affected.
+Records after deletion:
+101  Aravind  78
+103  Karthik  45
